@@ -1,0 +1,31 @@
+{
+  "name": "baby",
+  "description": "A childish library",
+  "version": "0.0.1",
+  "author": {
+    "name": "Ranjeet Mishra",
+    "email": "ranjmis@gmail.com",
+    "url": "https://github.com/ranjmis"
+  },
+  "contributors": [],
+  "dependencies": {
+    "colors": "*"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "baby"
+  ],
+  "main": "index.js",
+
+  "repository": {
+    "url": "git://github.com/ranjmis/baby.git",
+    "type": "git"
+  },
+
+  "engines": {
+    "node": ">= 0.4.1"
+  },  
+  "readme": "\n#Baby \nA childish library",
+  "_id": "baby@0.0.1",
+  "_from": "baby@0.0.1"
+}
